@@ -1,4 +1,4 @@
 package com.test.utilities;
 
-public class drivers {
+public class Driver {
 }
