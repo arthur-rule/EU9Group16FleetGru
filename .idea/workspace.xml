@@ -50,6 +50,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -65,7 +69,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +85,7 @@
       <workItem from="1671032364502" duration="7000" />
       <workItem from="1672299447052" duration="14000" />
       <workItem from="1706126028074" duration="80000" />
-      <workItem from="1706126311539" duration="360000" />
+      <workItem from="1706126311539" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1667851301447</created>
@@ -173,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706126597934</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126698271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126698271</updated>
+    </task>
+    <task id="LOCAL-00014" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126802447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126802447</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
