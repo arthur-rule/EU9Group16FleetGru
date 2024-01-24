@@ -35,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/test/runners/CukesRunner.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,7 +72,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,7 +88,7 @@
       <workItem from="1671032364502" duration="7000" />
       <workItem from="1672299447052" duration="14000" />
       <workItem from="1706126028074" duration="80000" />
-      <workItem from="1706126311539" duration="732000" />
+      <workItem from="1706126311539" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1667851301447</created>
@@ -193,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706126802447</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706127129171</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706127129171</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
