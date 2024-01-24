@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226e125e-6a4d-48b5-bd2a-5803093c2e51" name="Changes" comment="01/24/2024" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2HEWc1LvRZ5zaWbzvCRaSdVhAWa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "UserBranch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ertugrul/IdeaProjects/EU9Group16FleetGru",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226e125e-6a4d-48b5-bd2a-5803093c2e51" name="Changes" comment="" />
+      <created>1667850798427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667850798427</updated>
+      <workItem from="1667850799722" duration="2124000" />
+      <workItem from="1671032364502" duration="7000" />
+      <workItem from="1672299447052" duration="14000" />
+      <workItem from="1706126028074" duration="80000" />
+      <workItem from="1706126311539" duration="360000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1667851301447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667851301447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1667851714364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667851714364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <created>1667851937990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667851937990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third Commit">
+      <created>1667852005602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667852005602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fourth commit">
+      <created>1667852317118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667852317118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;First commit&quot;&#10;&#10;This reverts commit cb712ea7">
+      <created>1667852780155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667852780155</updated>
+    </task>
+    <task id="LOCAL-00007" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126097293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126097293</updated>
+    </task>
+    <task id="LOCAL-00008" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126575051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126575051</updated>
+    </task>
+    <task id="LOCAL-00009" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126581095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126581095</updated>
+    </task>
+    <task id="LOCAL-00010" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126586551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126586551</updated>
+    </task>
+    <task id="LOCAL-00011" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126591770</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126591770</updated>
+    </task>
+    <task id="LOCAL-00012" summary="01/24/2024">
+      <option name="closed" value="true" />
+      <created>1706126597934</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706126597934</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Sec" />
+    <MESSAGE value="Third Commit" />
+    <MESSAGE value="Fourth commit" />
+    <MESSAGE value="Revert &quot;First commit&quot;&#10;&#10;This reverts commit cb712ea7" />
+    <MESSAGE value="01/24/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="01/24/2024" />
+  </component>
+</project>
